@@ -1,1 +1,1 @@
-# EmployeeManagementSystem
+The Employee Management System is an Android application built using Java, designed for managing employee information in an organization. This app allows administrators to register, view, update,  manage employee etc details. This is the first Android app project developed using Android Studio.https://github.com/ElhamFabiaFerdous/canvashouse.git# EmployeeManagementSystem
